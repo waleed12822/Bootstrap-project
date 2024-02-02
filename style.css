@@ -1,0 +1,9 @@
+.navbar-brand{
+    color: #73B078;
+}
+
+.navbar-brand:hover{
+    color: aqua;
+    transition: 0.4s ease-in;
+
+}
